@@ -51,6 +51,10 @@ AI가 사용자에게 애니메이션을 추천해주는 프로그램입니다.
 🕘 <a href="https://quixotic-wok-871.notion.site/ad8d2f484f6544d5adc175d0a4bab03b">일정 관리 Notion</a>
 <br><br><br>
 
+## 🐲 배포 사이트  
+<a href="http://10taku.site/" target="_blank">10Taku 바로가기</a>  
+<br><br>
+
 
 ## <a href="https://github.com/NotEasyTeam/Animation-Recommendation/wiki">📂 Github Wiki</a>
 #### 🔨 <a href="https://docs.google.com/presentation/d/1j6QE8TeJI6S9dn34Lf-_TeOoBDofJvkdfaHV4W7TQeo/edit?usp=sharing">개발 목업</a>
